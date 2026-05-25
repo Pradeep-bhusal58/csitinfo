@@ -1,0 +1,6 @@
+{
+  "name": "CSIT Info Portal",
+  "description": "A comprehensive info portal for BSc CSIT students including syllabus, old questions, notes, and interactive features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
